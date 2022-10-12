@@ -1,0 +1,25 @@
+.top_up{
+  background-color: #00bfff;
+  width: 100%;
+  height: 25vh;
+  opacity: 0;
+}
+
+.top{
+  height: 43vh;
+}
+.top_title{
+  font-size: 100px;
+  text-align: center;
+}
+
+.top_subtitle{
+  font-size: 50px;
+  text-align: center;
+}
+
+.top_under{
+  background-color: #00bfff;
+  width: 100%;
+  height: 25vh;
+}
