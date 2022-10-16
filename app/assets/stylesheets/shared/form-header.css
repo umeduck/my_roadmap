@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.top-page-header{
+  width: 100vw;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #87ceeb;
+}
+
+.header-center{
+  width: 350px;
+  text-align: center;
+  margin: auto 0;
+}
+
+.header-title{
+  font-size: 50px;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  text-decoration: none;
+  color: #fff;
+  -webkit-text-stroke: 1px #000;
+}
+
